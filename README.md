@@ -1,4 +1,3 @@
-# Pegasusa-proV2.7
 <div align="center">
 
 <!-- Animated Header with Gradient Text -->
@@ -31,9 +30,28 @@
 **Pegasus Tool** is a cutting-edge development utility that empowers developers to build, deploy, and manage applications with unprecedented ease and efficiency. Like the mythical winged horse, Pegasus Tool helps your projects take flight and reach new heights of innovation.
 
 <div align="center">
-  <img src="./pegasus-interface-1.jpg" alt="Pegasus Tool Preview" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(255, 107, 107, 0.3); margin: 20px 0;"/>
+  <img src="https://github.com/H4ckethics138/Pegasusa-proV2.7/blob/main/IMG_20250802_111322.jpg?raw=true" alt="Pegasus Tool Preview" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(255, 107, 107, 0.3); margin: 20px 0;"/>
   <br/>
   <em>🎯 <strong>Powerful Android Pentesting Toolkit</strong> 🎯</em>
+</div>
+
+## 👥 **Team & Developer**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏆 <strong>Team Hackethics138</strong></h3>
+        <p><em>Ethical Hacking & Cybersecurity Specialists</em></p>
+        <img src="https://img.shields.io/badge/Team-Hackethics138-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white" alt="Team"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>👨‍💻 <strong>Vikash Jangir</strong></h3>
+        <p><em>Lead Developer & Security Researcher</em></p>
+        <img src="https://img.shields.io/badge/Developer-Vikash_Jangir-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Developer"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -91,37 +109,31 @@
 
 ### **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal"/>
 </p>
 
-### **Frameworks & Libraries**
+### **Frameworks & Tools**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="ADB"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux"/>
+  <img src="https://img.shields.io/badge/WiFi_Tools-FF6B6B?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi Tools"/>
+  <img src="https://img.shields.io/badge/Network_Scanner-4ECDC4?style=for-the-badge&logo=network-wired&logoColor=white" alt="Network Scanner"/>
 </p>
 
-### **Databases & Cloud**
+### **Security & Pentesting**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Android_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Security"/>
+  <img src="https://img.shields.io/badge/Network_Analysis-FF6B6B?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Analysis"/>
+  <img src="https://img.shields.io/badge/Payload_Generation-4ECDC4?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Payload Generation"/>
+  <img src="https://img.shields.io/badge/WiFi_Security-45B7D1?style=for-the-badge&logo=wifi&logoColor=white" alt="WiFi Security"/>
+  <img src="https://img.shields.io/badge/Device_Management-96CEB4?style=for-the-badge&logo=device-hub&logoColor=white" alt="Device Management"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-A29BFE?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking"/>
 </p>
 
 </div>
@@ -139,12 +151,12 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="./pegasus-interface-1.jpg" alt="Pegasus Tool Main Interface" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+        <img src="https://github.com/H4ckethics138/Pegasusa-proV2.7/blob/main/IMG_20250802_111322.jpg?raw=true" alt="Pegasus Tool Main Interface" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
         <br/>
         <sub><b>🎯 Main Interface - Feature Menu</b></sub>
       </td>
       <td align="center" width="50%">
-        <img src="./pegasus-interface-2.jpg" alt="Pegasus Tool License Interface" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+        <img src="https://github.com/H4ckethics138/Pegasusa-proV2.7/blob/main/IMG_20250802_111341.jpg?raw=true" alt="Pegasus Tool License Interface" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
         <br/>
         <sub><b>🔐 License Activation Screen</b></sub>
       </td>
@@ -258,10 +270,19 @@ pegasus:
 ### **Join Our Amazing Community!**
 
 <p>
+  <a href="https://github.com/H4ckethics138/Pegasusa-proV2.7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://youtube.com/@h4ckethics138?si=JlMrnZxQEsi-bvbR">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/hackethics138?igsh=MWJodmEwcW44ZDR2">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://discord.gg/pegasus">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://twitter.com/pegasustool">
+  <a href="https://twitter.com/h4ckethics138">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://reddit.com/r/pegasustool">
@@ -273,18 +294,18 @@ pegasus:
 </p>
 
 ### **Contributors**
-<img src="https://contrib.rocks/image?repo=pegasus-tool/pegasus" alt="Contributors"/>
+<img src="https://contrib.rocks/image?repo=H4ckethics138/Pegasusa-proV2.7" alt="Contributors"/>
 
 </div>
 
 ## 📈 **Project Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pegasus-tool&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=H4ckethics138&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus-tool&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckethics138&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ## 🎉 **What's New in v2.0**
@@ -343,7 +364,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=Thank+You+for+Using+Pegasus!;Happy+Coding!+🚀;Star+⭐+if+you+like+it!" alt="Thank You"/>
   </h2>
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Made with ❤️ by the Pegasus Team</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Made with ❤️ by Team Hackethics138</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  <br>
+  <em><b>🔥 Developer: Vikash Jangir 🔥</b></em>
   
   <br><br>
   
