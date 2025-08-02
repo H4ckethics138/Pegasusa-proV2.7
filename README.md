@@ -185,7 +185,6 @@ git clone https://github.com/H4ckethics138/Pegasusa-proV2.7.git
 
 ### **Step 2:  now you will have to change the directory**
 ```bash
-pegasus init my-awesome-project
 cd Pegasusa-proV2.7
 ```
 
