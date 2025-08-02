@@ -27,7 +27,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=50&lines=A+Revolutionary+Development+Tool;Built+for+Modern+Developers;Soar+to+New+Heights!" alt="Description"/>
 </div>
 
-**Pegasus Tool** is a cutting-edge development utility that empowers developers to build, deploy, and manage applications with unprecedented ease and efficiency. Like the mythical winged horse, Pegasus Tool helps your projects take flight and reach new heights of innovation.
+**Pegasus Tool** PegasusPro is a custom-built Android Penetration Testing Toolkit developed for ethical hackers and cybersecurity professionals.
+
 
 <div align="center">
   <img src="https://github.com/H4ckethics138/Pegasusa-proV2.7/blob/main/IMG_20250802_111322.jpg?raw=true" alt="Pegasus Tool Preview" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(255, 107, 107, 0.3); margin: 20px 0;"/>
@@ -177,28 +178,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=40&lines=Get+Started+in+3+Simple+Steps!" alt="Quick Start"/>
 </div>
 
-### **Step 1: Installation**
+### **Step 1: Installation** first of all you will have to clone this report
 ```bash
-# Using npm
-npm install -g pegasus-tool
-
-# Using pip
-pip install pegasus-tool
-
-# Using cargo
-cargo install pegasus-tool
+git clone https://github.com/H4ckethics138/Pegasusa-proV2.7.git
 ```
 
-### **Step 2: Initialize Project**
+### **Step 2:  now you will have to change the directory**
 ```bash
 pegasus init my-awesome-project
-cd my-awesome-project
+cd Pegasusa-proV2.7
 ```
 
 ### **Step 3: Launch & Develop**
 ```bash
-pegasus start --dev
-# Your project is now running at http://localhost:3000
+Python Main.py
 ```
 
 <div align="center">
