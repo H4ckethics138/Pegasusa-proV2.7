@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnFkcnY1c3QyN3l6ZnY0NGgyajVoM2wwaXBibm9uazF6aDQ2cmZmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
 ## ✨ **Key Features**
