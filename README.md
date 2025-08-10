@@ -1,4 +1,4 @@
-<div align="center">
+ji<div align="center">
 
 <!-- Animated Header with Gradient Text -->
 <h1>
@@ -96,10 +96,6 @@
 
 ### 🌐 **Multi-Platform Support**
 - 💻 Windows, macOS, Linux
-- 📱 Mobile development ready
-- ☁️ Cloud deployment integration
-- 🐳 Docker containerization
-
 </td>
 </tr>
 </table>
@@ -112,9 +108,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal"/>
 </p>
 
 ### **Frameworks & Tools**
