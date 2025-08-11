@@ -1,4 +1,4 @@
-ji<div align="center">
+<div align="center">
 
 <!-- Animated Header with Gradient Text -->
 <h1>
@@ -65,22 +65,10 @@ ji<div align="center">
 <tr>
 <td width="50%">
 
-### 🚀 **Lightning Fast Performance**
-- ⚡ Ultra-fast compilation and build times
-- 🔥 Optimized memory usage
-- 💨 Instant hot-reload capabilities
-- 🎯 Smart caching mechanisms
+
 
 </td>
-<td width="50%">
 
-### 🎨 **Beautiful UI/UX**
-- 🌈 Customizable color themes
-- 🎭 Interactive animations
-- 📱 Responsive design support
-- 🖼️ Rich media integration
-
-</td>
 </tr>
 <tr>
 <td width="50%">
@@ -102,9 +90,7 @@ ji<div align="center">
 
 ## 🎯 **Supported Technologies**
 
-<div align="center">
-
-### **Programming Languages**
+<div align="center">## **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
@@ -190,64 +176,6 @@ Python Main.py
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Success Animation"/>
 </div>
 
-## 📊 **Performance Metrics**
-
-<div align="center">
-
-| Metric | Before Pegasus | With Pegasus | Improvement |
-|--------|----------------|--------------|-------------|
-| 🚀 Build Time | 45 seconds | 8 seconds | **82% faster** |
-| 💾 Memory Usage | 512 MB | 128 MB | **75% reduction** |
-| ⚡ Hot Reload | 3 seconds | 0.5 seconds | **83% faster** |
-| 🎯 Bundle Size | 2.5 MB | 800 KB | **68% smaller** |
-
-</div>
-
-## 🎨 **Customization Options**
-
-<details>
-<summary><b>🌈 Theme Configuration</b></summary>
-
-```json
-{
-  "theme": {
-    "primary": "#FF6B6B",
-    "secondary": "#4ECDC4", 
-    "accent": "#45B7D1",
-    "background": "#2C3E50",
-    "text": "#FFFFFF"
-  },
-  "animations": {
-    "enabled": true,
-    "duration": "300ms",
-    "easing": "ease-in-out"
-  }
-}
-```
-
-</details>
-
-<details>
-<summary><b>🔧 Advanced Settings</b></summary>
-
-```yaml
-pegasus:
-  performance:
-    cache: true
-    minify: true
-    compress: true
-  development:
-    hot_reload: true
-    source_maps: true
-    debug_mode: false
-  deployment:
-    auto_deploy: true
-    environment: "production"
-    cdn_optimization: true
-```
-
-</details>
-
 ## 🌟 **Community & Support**
 
 <div align="center">
@@ -265,7 +193,7 @@ pegasus:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/pegasus">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColr=white" alt="Discord"/>
   </a>
   <a href="https://twitter.com/h4ckethics138">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -278,20 +206,8 @@ pegasus:
   </a>
 </p>
 
-### **Contributors**
 <img src="https://contrib.rocks/image?repo=H4ckethics138/Pegasusa-proV2.7" alt="Contributors"/>
 
-</div>
-
-## 📈 **Project Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4ckethics138&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckethics138&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
 
 ## 🎉 **What's New in v2.0**
 
@@ -299,26 +215,10 @@ pegasus:
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=45B7D1&center=true&vCenter=true&width=600&height=50&lines=🎊+Major+Update+Released!+🎊;🚀+New+Features+Added!+🚀;✨+Performance+Improved!+✨" alt="What's New"/>
 </div>
 
-- 🎨 **New UI/UX Design** - Completely redesigned interface
-- ⚡ **Performance Boost** - 3x faster than previous version
-- 🔧 **Plugin System** - Extensible architecture
-- 🌐 **Multi-language Support** - 15+ languages supported
-- 🔒 **Enhanced Security** - Advanced encryption protocols
-- 📱 **Mobile Optimization** - Better mobile development tools
-
-## 🤝 **Contributing**
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Contributing Animation"/>
 </div>
-
-We love contributions! Here's how you can help:
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 **Push** to the branch (`git push origin feature/amazing-feature`)
-5. 🎯 **Open** a Pull Request
 
 ## 📄 **License**
 
