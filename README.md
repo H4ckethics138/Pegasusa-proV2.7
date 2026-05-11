@@ -166,10 +166,13 @@ git clone https://github.com/H4ckethics138/Pegasusa-proV2.7.git
 ```bash
 cd Pegasusa-proV2.7
 ```
-
-### **Step 3: Launch & Develop**
+### **Step 4 : Launch & Develop**
 ```bash
-Python Main.py
+Python3 Licence_Generator_Tool.py 
+``` 
+### **Step 4 : Launch & Develop**
+```bash
+Python3 Main.py
 ```
 
 <div align="center">
